@@ -1,2 +1,2 @@
 # Java8Features
-This project has to deal with the features of Java 8. 
+This project is dealing with the features of Java 8. 
